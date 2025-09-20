@@ -1,1 +1,1 @@
-alert ("hello! motaz verstion")
+alert ("hello! motaz verstion+ free palestine")
